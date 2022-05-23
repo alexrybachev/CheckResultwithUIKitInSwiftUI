@@ -11,6 +11,8 @@
 		28E5C688283B45D000E98D03 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28E5C687283B45D000E98D03 /* ContentView.swift */; };
 		28E5C68A283B45D200E98D03 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 28E5C689283B45D200E98D03 /* Assets.xcassets */; };
 		28E5C68D283B45D200E98D03 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 28E5C68C283B45D200E98D03 /* Preview Assets.xcassets */; };
+		28E5C694283BE91A00E98D03 /* SliderUIKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28E5C693283BE91A00E98D03 /* SliderUIKit.swift */; };
+		28E5C696283BF7BF00E98D03 /* ButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28E5C695283BF7BF00E98D03 /* ButtonView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		28E5C687283B45D000E98D03 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		28E5C689283B45D200E98D03 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		28E5C68C283B45D200E98D03 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		28E5C693283BE91A00E98D03 /* SliderUIKit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderUIKit.swift; sourceTree = "<group>"; };
+		28E5C695283BF7BF00E98D03 /* ButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				28E5C685283B45D000E98D03 /* CheckResultwithUIKitInSwiftUIApp.swift */,
 				28E5C687283B45D000E98D03 /* ContentView.swift */,
+				28E5C695283BF7BF00E98D03 /* ButtonView.swift */,
+				28E5C693283BE91A00E98D03 /* SliderUIKit.swift */,
 				28E5C689283B45D200E98D03 /* Assets.xcassets */,
 				28E5C68B283B45D200E98D03 /* Preview Content */,
 			);
@@ -138,6 +144,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				28E5C688283B45D000E98D03 /* ContentView.swift in Sources */,
+				28E5C694283BE91A00E98D03 /* SliderUIKit.swift in Sources */,
+				28E5C696283BF7BF00E98D03 /* ButtonView.swift in Sources */,
 				28E5C686283B45D000E98D03 /* CheckResultwithUIKitInSwiftUIApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
