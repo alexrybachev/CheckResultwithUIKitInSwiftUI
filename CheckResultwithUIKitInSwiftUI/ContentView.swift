@@ -43,7 +43,7 @@ struct ContentView: View {
         }
         .padding()
     }
-
+    
     private func computeScore() -> Int {
         let difference = abs(targetValue - lround(currentValue))
         return 100 - difference
